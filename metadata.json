@@ -1,0 +1,8 @@
+{
+  "name": "CopyCraft AI",
+  "description": "Production-grade AI-powered website copy generator, live preview editor, SEO analyzer, and static site ZIP exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
